@@ -1,27 +1,27 @@
 command,input
-help,what commands you've got
-help,display your commands
-help,how can i use your commands
-help,help me
-help,show your commands
-help,show commands
-help,display a list of your commands
-help, show a list of your commands
-help,what are your commands
-membercount,how many members does this server have
-membercount,display the server's member count
-membercount,show the server's member count
-membercount,membercount?
-membercount,how many members are here
-membercount,how many people are here
-membercount,show me the member count
-userinfo,what's my id
-userinfo,when did i join discord
-userinfo,when did i join the server
-userinfo,when did i join this server
-userinfo,show me my account's info
-userinfo,show me my user info
-userinfo,what is my user id
-userinfo,display my id
-userinfo,display my account info
-userinfo,display my user info
+0,what commands you've got
+0,display your commands
+0,how can i use your commands
+0,help me
+0,show your commands
+0,show commands
+0,display a list of your commands
+0,show a list of your commands
+0,what are your commands
+1,how many members does this server have
+1,display the server's member count
+1,show the server's member count
+1,membercount?
+1,how many members are here
+1,how many people are here
+1,show me the member count
+2,what's my id
+2,when did i join discord
+2,when did i join the server
+2,when did i join this server
+2,show me my account's info
+2,show me my user info
+2,what is my user id
+2,display my id
+2,display my account info
+2,display my user info
