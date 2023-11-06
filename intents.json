@@ -1,0 +1,42 @@
+{
+  "intents": [
+    {
+      "tag": "help",
+      "patterns": [
+        "what commands have you got",
+        "display your commands",
+        "how can i use your commands",
+        "help me",
+        "show your commands",
+        "display a list of your commands",
+        "show me list of your commands",
+        "what are your commands"
+      ]
+    },
+    {
+      "tag": "membercount",
+      "patterns": [
+        "how many members does this server have",
+        "display the server's member count",
+        "show me the server's member count",
+        "membercount?",
+        "how many people are here",
+        "how many members are here",
+        "show me the membercount"
+      ]
+    },
+    {
+      "tag": "userinfo",
+      "patterns": [
+        "what is my id",
+        "when did i join discord",
+        "when did i join the server",
+        "when did i join this server",
+        "show me my account info",
+        "show me my user info",
+        "display my user info",
+        "display my account info"
+      ]
+    }
+  ]
+}
