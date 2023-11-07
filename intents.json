@@ -37,6 +37,23 @@
         "display my user info",
         "display my account info"
       ]
+    },
+    {
+      "tag": "serverinfo",
+      "patterns": [
+        "when was this server created",
+        "when was the server created",
+        "how many roles does the server have",
+        "how many channels does the server have",
+        "how many stickers does this server have",
+        "how many emojis does this server have",
+        "display server information",
+        "show server information",
+        "display server info",
+        "who owns this server",
+        "who is the server owner",
+        "what is the server's afk time out"
+      ]
     }
   ]
 }
